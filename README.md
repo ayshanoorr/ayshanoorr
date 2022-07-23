@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ayshanoorr/ayshanoorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hello guys, my name is Carlos Vinicius Monteiro de Souza. ✌️🤓&nbsp; </h2>
+<h2> Hello guys, I'm Aysha! ✌️🤓&nbsp; </h2>
 
+
+<!--
 <h3> 📡&nbsp; If you want to contact me, chat or just exchange an idea, here are some ways available : </h3>
 
 &nbsp; <a href="https://twitter.com/CarlosViniMS1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/452/twitter-squared.png" width=90 heigth=90/></a>
@@ -162,7 +164,11 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
   </a>
 </p>
 
+-->
+
 <!-- If you're using "main" as default branch -->
+
+<!--
 
 ![GIF](https://raw.githubusercontent.com/CarlosViniMSouza/CarlosViniMSouza/output/github-contribution-grid-snake.svg)
 
@@ -176,3 +182,4 @@ _The 'Top Langs' framework crashed because of the amount of code loaded in Jupyt
 
 ![techs](https://github.com/CarlosViniMSouza/CarlosViniMSouza/blob/main/images/Others/techs_2020.png)
 
+-->
