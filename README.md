@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Full+Stack+Developer;Data+Scientist;Always+learning+new+things.&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Full+Stack+Developer;Computer+Scientist;Always+learning+new+things.&center=true&width=500&height=50"></a>
 </p>
 
 
