@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Aysha! 😃&nbsp; </h2>
+<!-- <h2> Hi, I'm Aysha! 😃&nbsp; </h2> -->
 
 
 
 
 
-<h1 align="center> Hi, I'm Sana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
-<p> Software developer in the making, trying my hand at everything programming. </p>
+<h1 align="center> Hi, I'm Aysha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<p> Passionate about the things that I love & technology is at the top of the list </p>
 
 
 <!--
